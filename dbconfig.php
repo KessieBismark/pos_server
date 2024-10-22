@@ -1,8 +1,8 @@
 <?php
 $server = 'localhost';
-$username = 'bistech3_root';
-$password = '0542089814kessie';
-$database = 'bistech3_super';
+$username = '';
+$password = '';
+$database = '';
 
 $conn = mysqli_connect($server,$username,$password,$database) or die("cannot connect to database");
  
